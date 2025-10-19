@@ -1,0 +1,21 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+
+# Archives
+*.zip
+*.crx
+*.pem
