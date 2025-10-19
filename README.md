@@ -115,7 +115,7 @@ Coming soon! Will be available at [Chrome Web Store link]
 - ✅ Local-only variable tracking
 - ✅ Open source - verify the code yourself
 
-Read our [Privacy Policy](privacy-policy.md)
+Read our [Privacy Policy](PRIVACY.md)
 
 ## Architecture Deep Dive
 
